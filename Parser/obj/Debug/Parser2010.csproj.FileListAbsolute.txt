@@ -1,0 +1,14 @@
+F:\123NewLive\Musoftware Network\New folder\bin\Debug\Itenso.Rtf.Parser.dll
+F:\123NewLive\Musoftware Network\New folder\bin\Debug\Itenso.Rtf.Parser.pdb
+F:\123NewLive\Musoftware Network\New folder\Parser\obj\Debug\Parser2010.csprojResolveAssemblyReference.cache
+F:\123NewLive\Musoftware Network\New folder\Parser\obj\Debug\Itenso.Rtf.Strings.resources
+F:\123NewLive\Musoftware Network\New folder\Parser\obj\Debug\Parser2010.csproj.GenerateResource.Cache
+F:\123NewLive\Musoftware Network\New folder\Parser\obj\Debug\Itenso.Rtf.Parser.dll
+F:\123NewLive\Musoftware Network\New folder\Parser\obj\Debug\Itenso.Rtf.Parser.pdb
+F:\123NewLive\Text office\Musoftware Rtf to Html\Parser\obj\Debug\Parser2010.csprojResolveAssemblyReference.cache
+F:\123NewLive\Text office\Musoftware Rtf to Html\Parser\obj\Debug\Itenso.Rtf.Strings.resources
+F:\123NewLive\Text office\Musoftware Rtf to Html\Parser\obj\Debug\Parser2010.csproj.GenerateResource.Cache
+F:\123NewLive\Text office\Musoftware Rtf to Html\Parser\obj\Debug\Itenso.Rtf.Parser.dll
+F:\123NewLive\Text office\Musoftware Rtf to Html\Parser\obj\Debug\Itenso.Rtf.Parser.pdb
+F:\123NewLive\Text office\Musoftware Rtf to Html\bin\Debug\Itenso.Rtf.Parser.dll
+F:\123NewLive\Text office\Musoftware Rtf to Html\bin\Debug\Itenso.Rtf.Parser.pdb

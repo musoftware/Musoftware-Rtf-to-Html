@@ -1,0 +1,11 @@
+F:\123NewLive\Text office\Musoftware Rtf to Html\New folder\test\test\obj\Debug\test.exe
+F:\123NewLive\Text office\Musoftware Rtf to Html\New folder\test\test\obj\Debug\test.pdb
+F:\123NewLive\Text office\Musoftware Rtf to Html\New folder\test\test\bin\test.exe
+F:\123NewLive\Text office\Musoftware Rtf to Html\New folder\test\test\bin\test.pdb
+F:\123NewLive\Text office\Musoftware Rtf to Html\New folder\test\test\bin\test.xml
+F:\123NewLive\Text office\Musoftware Rtf to Html\New folder\test\test\bin\richtextboxjmb.dll
+F:\123NewLive\Text office\Musoftware Rtf to Html\New folder\test\test\bin\richtextboxjmb.pdb
+F:\123NewLive\Text office\Musoftware Rtf to Html\New folder\test\test\obj\Debug\test.vbprojResolveAssemblyReference.cache
+F:\123NewLive\Text office\Musoftware Rtf to Html\New folder\test\test\obj\Debug\test.Form1.resources
+F:\123NewLive\Text office\Musoftware Rtf to Html\New folder\test\test\obj\Debug\test.vbproj.GenerateResource.Cache
+F:\123NewLive\Text office\Musoftware Rtf to Html\New folder\test\test\obj\Debug\test.xml

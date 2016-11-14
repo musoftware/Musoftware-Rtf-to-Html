@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RichTextBoxJmb", "RichTextBoxJmb.vbproj", "{A607B1EC-307E-40A5-A694-711A6334191B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "test", "test\test\test.vbproj", "{D06929DE-EC07-44C8-9A24-F80938D1448A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A607B1EC-307E-40A5-A694-711A6334191B}.Debug.ActiveCfg = Debug|.NET
+		{A607B1EC-307E-40A5-A694-711A6334191B}.Debug.Build.0 = Debug|.NET
+		{A607B1EC-307E-40A5-A694-711A6334191B}.Release.ActiveCfg = Release|.NET
+		{A607B1EC-307E-40A5-A694-711A6334191B}.Release.Build.0 = Release|.NET
+		{D06929DE-EC07-44C8-9A24-F80938D1448A}.Debug.ActiveCfg = Debug|.NET
+		{D06929DE-EC07-44C8-9A24-F80938D1448A}.Debug.Build.0 = Debug|.NET
+		{D06929DE-EC07-44C8-9A24-F80938D1448A}.Release.ActiveCfg = Release|.NET
+		{D06929DE-EC07-44C8-9A24-F80938D1448A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
